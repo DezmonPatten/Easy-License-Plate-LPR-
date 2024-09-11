@@ -6,14 +6,14 @@ The system leverages AWS Rekognition for image analysis, along with other AWS se
 
 Key Features:
 
-AWS Rekognition Integration: Utilizes Rekognition's powerful image and video analysis capabilities for accurate license plate detection and recognition.
-Scalable Architecture: Leverages AWS services like Lambda, S3, and DynamoDB to ensure scalability, reliability, and performance.
-Database Storage: Stores recognized license plate information in a DynamoDB database.
-Notification System: Sends notifications based on recognition outcomes (recognized or unrecognized plates).
-Access Control: Implements IAM for secure access to AWS services.
+AWS Rekognition Integration: Utilizes Rekognition's powerful image and video analysis capabilities for accurate license plate detection and recognition.<br>
+Scalable Architecture: Leverages AWS services like Lambda, S3, and DynamoDB to ensure scalability, reliability, and performance.<br>
+Database Storage: Stores recognized license plate information in a DynamoDB database.<br>
+Notification System: Sends notifications based on recognition outcomes (recognized or unrecognized plates).<br>
+Access Control: Implements IAM for secure access to AWS services.<br>
 
 System Architecture:
-<img width="926" alt="LPR_diagram" src="https://github.com/user-attachments/assets/20c010b9-ff11-42af-8df7-640c511c8d23">
+<img width="926" alt="LPR_diagram" src="https://github.com/user-attachments/assets/20c010b9-ff11-42af-8df7-640c511c8d23"><br>
 
 Workflow:
 
