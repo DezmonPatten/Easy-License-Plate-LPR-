@@ -13,7 +13,8 @@ Notification System: Sends notifications based on recognition outcomes (recogniz
 Access Control: Implements IAM for secure access to AWS services.
 
 System Architecture:
-![Diagram Image](path/to/your/image.png)
+<img width="926" alt="LPR_diagram" src="https://github.com/user-attachments/assets/20c010b9-ff11-42af-8df7-640c511c8d23">
+
 Workflow:
 
 Image/Video Capture: Cameras capture images or video streams.
